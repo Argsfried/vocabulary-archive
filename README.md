@@ -1,2 +1,3 @@
 # Arukane
-Hmm.
+Well, this project is stil on-going.
+
