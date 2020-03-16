@@ -1,3 +1,2 @@
 # Arukane
-Well, this project is stil on-going.
-
+It's actually finish, but still under remastering.
