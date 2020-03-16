@@ -1,4 +1,4 @@
-# Vocabulary Archive
+# Vocabulary Archive | Java
 It's actually finish, but still under remastering.
 
 Features:
