@@ -1,7 +1,6 @@
 # Vocabulary Archive
 It's actually finish, but still under remastering.
-
-Features >>
+Features:
 - Daily words
 - Add words
 - Delete words
