@@ -1,7 +1,7 @@
 # Vocabulary Archive | Java
-It's actually finish, but still under remastering.
+# It's actually finish, but still under remastering.
 
-Features:
+# Features:
 - Daily words
 - Add words
 - Delete words
