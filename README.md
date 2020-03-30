@@ -1,5 +1,5 @@
 # Vocabulary Archive | Java
-# It's actually finish, but still under remastering of functionality.
+# It's actually finish, but still under remastering on functionality.
 
 # Features:
 - Daily words
