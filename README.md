@@ -6,4 +6,4 @@
 - Add words
 - Delete words
 - Preview all words
-- Sort words
+- Sort/reverse sort words
